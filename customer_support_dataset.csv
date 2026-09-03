@@ -1,0 +1,181 @@
+Case_ID,Training_Group,Support_Channel,Resolution_Time_Hours,Satisfaction
+1,Before Training,Phone,46.1,Satisfied
+2,Before Training,Email,42.23,Satisfied
+3,Before Training,Email,62.35,Not Satisfied
+4,Before Training,Email,53.78,Not Satisfied
+5,Before Training,Phone,35.29,Not Satisfied
+6,Before Training,Email,45.84,Satisfied
+7,Before Training,Chat,45.14,Not Satisfied
+8,Before Training,Phone,58.38,Satisfied
+9,Before Training,Phone,69.97,Not Satisfied
+10,Before Training,Email,85.14,Satisfied
+11,Before Training,Chat,46.14,Not Satisfied
+12,Before Training,Email,46.1,Not Satisfied
+13,Before Training,Chat,20.68,Satisfied
+14,Before Training,Phone,52.68,Not Satisfied
+15,Before Training,Email,47.87,Satisfied
+16,Before Training,Phone,45.85,Not Satisfied
+17,Before Training,Email,49.88,Satisfied
+18,Before Training,Phone,48.59,Not Satisfied
+19,Before Training,Email,66.66,Satisfied
+20,Before Training,Email,57.57,Not Satisfied
+21,Before Training,Chat,40.41,Not Satisfied
+22,Before Training,Phone,39.64,Satisfied
+23,Before Training,Email,39.25,Not Satisfied
+24,Before Training,Email,51.14,Not Satisfied
+25,Before Training,Email,55.46,Not Satisfied
+26,Before Training,Chat,59.68,Satisfied
+27,Before Training,Phone,51.3,Not Satisfied
+28,Before Training,Chat,51.83,Satisfied
+29,Before Training,Email,51.01,Not Satisfied
+30,Before Training,Email,44.15,Satisfied
+31,Before Training,Phone,40.35,Satisfied
+32,Before Training,Phone,42.75,Satisfied
+33,Before Training,Phone,71.28,Not Satisfied
+34,Before Training,Chat,33.79,Satisfied
+35,Before Training,Email,64.38,Not Satisfied
+36,Before Training,Phone,40.97,Not Satisfied
+37,Before Training,Chat,51.32,Satisfied
+38,Before Training,Chat,45.85,Not Satisfied
+39,Before Training,Phone,48.43,Not Satisfied
+40,Before Training,Phone,49.59,Satisfied
+41,Before Training,Chat,35.45,Satisfied
+42,Before Training,Chat,46.46,Satisfied
+43,Before Training,Phone,45.45,Not Satisfied
+44,Before Training,Chat,29.74,Satisfied
+45,Before Training,Email,43.22,Not Satisfied
+46,Before Training,Email,57.73,Not Satisfied
+47,Before Training,Chat,57.79,Satisfied
+48,Before Training,Phone,51.6,Not Satisfied
+49,Before Training,Email,54.81,Not Satisfied
+50,Before Training,Chat,44.86,Satisfied
+51,Before Training,Chat,55.06,Satisfied
+52,Before Training,Email,58.19,Satisfied
+53,Before Training,Phone,45.89,Satisfied
+54,Before Training,Phone,61.06,Satisfied
+55,Before Training,Chat,46.29,Not Satisfied
+56,Before Training,Email,71.36,Not Satisfied
+57,Before Training,Chat,43.83,Satisfied
+58,Before Training,Chat,29.76,Not Satisfied
+59,Before Training,Phone,36.32,Satisfied
+60,Before Training,Email,72.51,Not Satisfied
+61,Before Training,Phone,67.24,Not Satisfied
+62,Before Training,Chat,40.2,Satisfied
+63,Before Training,Email,52.17,Satisfied
+64,Before Training,Chat,56.61,Not Satisfied
+65,Before Training,Chat,30.93,Not Satisfied
+66,Before Training,Phone,41.05,Not Satisfied
+67,Before Training,Chat,48.43,Satisfied
+68,Before Training,Email,52.05,Not Satisfied
+69,Before Training,Chat,41.95,Not Satisfied
+70,Before Training,Phone,48.37,Satisfied
+71,Before Training,Phone,53.38,Not Satisfied
+72,Before Training,Email,70.07,Not Satisfied
+73,Before Training,Phone,50.91,Satisfied
+74,Before Training,Chat,48.44,Satisfied
+75,Before Training,Email,35.5,Not Satisfied
+76,Before Training,Chat,41.51,Satisfied
+77,Before Training,Email,47.57,Satisfied
+78,Before Training,Phone,37.81,Satisfied
+79,Before Training,Phone,41.22,Satisfied
+80,Before Training,Phone,46.66,Not Satisfied
+81,Before Training,Phone,59.16,Not Satisfied
+82,Before Training,Phone,36.74,Satisfied
+83,Before Training,Chat,42.31,Not Satisfied
+84,Before Training,Chat,37.16,Not Satisfied
+85,Before Training,Phone,46.72,Satisfied
+86,Before Training,Phone,60.03,Not Satisfied
+87,Before Training,Chat,47.38,Satisfied
+88,Before Training,Email,69.37,Not Satisfied
+89,Before Training,Chat,40.45,Not Satisfied
+90,Before Training,Email,49.04,Not Satisfied
+91,After Training,Phone,39.76,Satisfied
+92,After Training,Chat,36.42,Not Satisfied
+93,After Training,Phone,43.77,Satisfied
+94,After Training,Chat,23.16,Satisfied
+95,After Training,Phone,42.9,Satisfied
+96,After Training,Chat,36.28,Satisfied
+97,After Training,Chat,59.17,Satisfied
+98,After Training,Chat,52.77,Not Satisfied
+99,After Training,Email,39.47,Satisfied
+100,After Training,Chat,31.13,Satisfied
+101,After Training,Chat,19.37,Satisfied
+102,After Training,Phone,36.09,Satisfied
+103,After Training,Chat,37.16,Satisfied
+104,After Training,Email,60.06,Not Satisfied
+105,After Training,Chat,26.71,Satisfied
+106,After Training,Chat,27.46,Not Satisfied
+107,After Training,Chat,12.53,Satisfied
+108,After Training,Chat,32.37,Satisfied
+109,After Training,Phone,31.38,Not Satisfied
+110,After Training,Phone,36.71,Satisfied
+111,After Training,Email,39.23,Satisfied
+112,After Training,Chat,33.06,Not Satisfied
+113,After Training,Phone,24.42,Satisfied
+114,After Training,Chat,19.33,Satisfied
+115,After Training,Phone,63.29,Satisfied
+116,After Training,Chat,21.13,Satisfied
+117,After Training,Chat,23.03,Satisfied
+118,After Training,Email,66.37,Not Satisfied
+119,After Training,Phone,71.05,Not Satisfied
+120,After Training,Phone,30.28,Satisfied
+121,After Training,Email,44.32,Not Satisfied
+122,After Training,Chat,37.42,Satisfied
+123,After Training,Chat,51.29,Satisfied
+124,After Training,Email,38.13,Satisfied
+125,After Training,Chat,31.55,Not Satisfied
+126,After Training,Email,55.77,Satisfied
+127,After Training,Email,52.35,Satisfied
+128,After Training,Phone,38.24,Satisfied
+129,After Training,Email,46.66,Satisfied
+130,After Training,Phone,28.25,Not Satisfied
+131,After Training,Email,45.62,Satisfied
+132,After Training,Chat,31.34,Satisfied
+133,After Training,Phone,44.32,Satisfied
+134,After Training,Email,42.45,Satisfied
+135,After Training,Chat,38.72,Not Satisfied
+136,After Training,Phone,52.13,Satisfied
+137,After Training,Phone,43.55,Not Satisfied
+138,After Training,Phone,45.52,Satisfied
+139,After Training,Chat,34.53,Satisfied
+140,After Training,Phone,42.0,Satisfied
+141,After Training,Email,40.78,Not Satisfied
+142,After Training,Email,51.16,Satisfied
+143,After Training,Phone,41.03,Satisfied
+144,After Training,Chat,54.93,Not Satisfied
+145,After Training,Email,63.73,Not Satisfied
+146,After Training,Phone,45.86,Not Satisfied
+147,After Training,Email,40.37,Satisfied
+148,After Training,Phone,30.88,Satisfied
+149,After Training,Email,59.91,Satisfied
+150,After Training,Chat,36.63,Satisfied
+151,After Training,Chat,38.8,Satisfied
+152,After Training,Phone,24.55,Satisfied
+153,After Training,Email,57.27,Satisfied
+154,After Training,Email,52.54,Satisfied
+155,After Training,Email,36.9,Satisfied
+156,After Training,Phone,37.28,Satisfied
+157,After Training,Email,50.64,Satisfied
+158,After Training,Email,48.52,Satisfied
+159,After Training,Email,45.08,Satisfied
+160,After Training,Email,46.97,Satisfied
+161,After Training,Chat,31.48,Satisfied
+162,After Training,Email,49.53,Satisfied
+163,After Training,Email,62.71,Satisfied
+164,After Training,Chat,10.0,Satisfied
+165,After Training,Phone,39.63,Satisfied
+166,After Training,Phone,43.77,Satisfied
+167,After Training,Email,50.96,Satisfied
+168,After Training,Chat,30.28,Satisfied
+169,After Training,Email,30.43,Satisfied
+170,After Training,Email,51.28,Satisfied
+171,After Training,Phone,59.27,Not Satisfied
+172,After Training,Chat,18.66,Satisfied
+173,After Training,Email,56.64,Not Satisfied
+174,After Training,Chat,30.71,Satisfied
+175,After Training,Phone,41.39,Satisfied
+176,After Training,Email,37.47,Satisfied
+177,After Training,Phone,38.66,Satisfied
+178,After Training,Email,61.0,Satisfied
+179,After Training,Chat,39.83,Satisfied
+180,After Training,Phone,59.32,Not Satisfied
